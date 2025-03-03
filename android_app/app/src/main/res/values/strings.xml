@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dristi Mani</string>
+    <string name="welcome_message">Welcome to Dristi Mani App</string>
+    <string name="select_language">Please select your preferred language:</string>
+    <string name="start_listening">Start Listening</string>
+    <string name="error_input">Error recognizing input. Please try again.</string>
+</resources>
